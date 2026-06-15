@@ -3,12 +3,6 @@
   <img src="image/home.png" width="900">
 </p>
 
-### Collaborative Project by Akshay Shukla & Deepika Rai
-
-🔗 Akshay: [www.linkedin.com/in/akshayshukla-](http://www.linkedin.com/in/akshayshukla-)
-
-🔗 Deepika: [www.linkedin.com/in/deepika-rai-55932a297/](http://www.linkedin.com/in/deepika-rai-55932a297/)
-
 ---
 
 ## 📌 Project Overview
@@ -306,20 +300,6 @@ The trained XGBoost model predicts the estimated house price and displays the re
 
 
 ---
-
-## 👨‍💻 Project Contributors
-
-This project was collaboratively developed by:
-
-### Akshay Shukla
-
-LinkedIn: [www.linkedin.com/in/akshayshukla-](http://www.linkedin.com/in/akshayshukla-)
-
----
-
-### Deepika Rai
-
-LinkedIn: [www.linkedin.com/in/deepika-rai-55932a297/](http://www.linkedin.com/in/deepika-rai-55932a297/)
 
 ---
 
