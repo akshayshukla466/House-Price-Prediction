@@ -5,6 +5,13 @@
 
 ---
 
+## 🌐 Live Demo
+
+🔗 **Live Application:** https://dreamhome-estimator.streamlit.app/
+
+💻 **GitHub Repository:** https://github.com/AkshayShukla30/House-Price-Prediction
+
+---
 ## 📌 Project Overview
 
 House Price Prediction is a Machine Learning project that predicts the selling price of residential properties using the Ames Housing Dataset.
